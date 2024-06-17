@@ -20,7 +20,7 @@ practice_14_windows.py ===> For Windows
 
 For Run ===> python practice_14_windows.py
 
-Required packages For Python ===> os / termcolor2 / pyfiglet
+Required Packages For Python ===> os / termcolor2 / pyfiglet
 
 termcolor2 ===> To install => pip install termcolor2
 
