@@ -6,7 +6,7 @@ Programming Language ===> Python
 
 Program description ===> 14th Exercise
 
-Example ===> Write A Program That Displays the following tuple in order and then displays the reverse:
+Example ===> Write A Program That Displays The Following tuple in order and then displays the reverse:
 
 A => (3, 4, 5, 2, 1, 7, 8, 9, 6, 10)
 
