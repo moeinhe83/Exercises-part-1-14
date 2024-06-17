@@ -4,7 +4,7 @@ Question Number ===> 14
 
 Programming Language ===> Python
 
-Program description ===> 14th Exercise
+Program Description ===> 14th Exercise
 
 Example ===> Write A Program That Displays The Following Tuple In Order And Then Displays The Reverse:
 
