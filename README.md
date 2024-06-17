@@ -12,7 +12,7 @@ A => (3, 4, 5, 2, 1, 7, 8, 9, 6, 10)
 
 Description Of Files:
 
-practice_14_linux.py ===> For Linux [Ubuntu Or Kali]
+practice_14_linux.py ===> For Linux 
 
 For Run ===> python practice_14_linux.py
 
